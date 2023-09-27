@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "969380361735",
+    "project_id": "fir-auth-with-bloc-38dee",
+    "storage_bucket": "fir-auth-with-bloc-38dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969380361735:android:2e893eeb0a63bcaa185ca2",
+        "android_client_info": {
+          "package_name": "com.example.g_auth_with_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQjW7zOprEKhoBoPbq9hCsWzbI5c3tyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
