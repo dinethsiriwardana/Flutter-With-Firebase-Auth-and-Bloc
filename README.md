@@ -59,3 +59,6 @@ pod install --repo-update
 ```
 
 That's it! You've successfully set up Firebase Authentication with BLoC in your Flutter project. Make sure to replace `AuthBloc` with your actual BLoC class name.
+
+![flutterbloc2 drawio](https://github.com/dinethsiriwardana/Flutter-With-Firebase-Auth-and-Bloc/assets/91774218/42be142b-b01b-4574-82bf-c856014c1b4e)
+
